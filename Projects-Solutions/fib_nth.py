@@ -1,3 +1,5 @@
+# **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number
+
 # Fibonacci series will start at 0 and travel up to below number
 
 n = int(input("Starting from 0, how many Fibonaccis to generate? : "))

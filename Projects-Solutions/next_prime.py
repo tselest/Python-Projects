@@ -1,3 +1,5 @@
+#**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
+
 def find_next_prime(n):
     return find_prime_in_range(n, 2*n)
 
