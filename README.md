@@ -1,4 +1,4 @@
-# Complete Python 3 Bootcamp Milestone Projects
+# Complete Python 3 Bootcamp Milestone Projects (WIP)
 [Udemy course by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)
 
 Numbers
