@@ -1,8 +1,6 @@
-# Complete Python 3 Bootcamp Milestone Projects (WIP 18/95)
+# Complete Python 3 Bootcamp Milestone Projects (WIP 20/95)
 [Udemy course by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)
 
-Numbers
----------
 
 (1) ~~**Find PI to the Nth Digit**~~
 
@@ -38,7 +36,7 @@ Numbers
 
 (17) **Complex Number Algebra** 
 
-(18) **Happy Numbers** 
+(18) ~~**Happy Numbers**~~ 
 
 (19) **Number Names** 
 
@@ -78,7 +76,7 @@ Numbers
 
 (37) ~~**Check if Palindrome**~~ 
 
-(38) **Count Words in a String** 
+(38) ~~**Count Words in a String**~~ 
 
 (39) **Text Editor** 
 
