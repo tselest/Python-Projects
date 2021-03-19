@@ -72,7 +72,7 @@ Numbers
 
 (34) ~~**Reverse a String**~~
 
-(35) ~~**Pig Latin** ~~
+(35) ~~**Pig Latin**~~
 
 (36) **Count Vowels**
 
