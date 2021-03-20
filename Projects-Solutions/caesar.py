@@ -17,9 +17,9 @@ def caepher():
             encryption += char
 
         elif char.isupper():
-
+        # chr() --> takes an integer and converts it to a character
             encryption += chr((ord(char) + key - ord('A')) %26 + ord('A'))
-            # ord() --> gives ascii values of letters; e.g 65 for uppercase, 97 for lowercase
+        # ord() --> gives ascii values of letters; e.g 65 for uppercase 'A' 97 for lowercase 'a'
 
         else:
             encryption += chr((ord(char) + key - ord('a')) %26 + ord('a'))
