@@ -1,6 +1,8 @@
-# Complete Python 3 Bootcamp Milestone Projects (WIP 20/95)
+# Complete Python 3 Bootcamp Milestone Projects (WIP 21/95)
 [Udemy course by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)
 
+List of Mini-Projects
+---------------------
 
 (1) ~~**Find PI to the Nth Digit**~~
 
@@ -44,7 +46,7 @@
 
 (21) **Limit Calculator** 
 
-(22) **Fast Exponentiation** 
+(22) ~~**Fast Exponentiation**~~
 
 (23) **Collatz Conjecture** 
 
@@ -184,7 +186,7 @@
 
 (91) **GIF Creator**
 
-(92) **Caesar cipher**
+(92) ~~**Caesar cipher**~~
 
 (93) ~~**Tic-Tac-Toe game**~~
 
