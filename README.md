@@ -1,4 +1,4 @@
-# Complete Python 3 Bootcamp Milestone Projects (WIP 22/95)
+# Complete Python 3 Bootcamp Milestone Projects (WIP 25/95)
 [Udemy course by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)
 
 List of Mini-Projects
@@ -24,15 +24,15 @@ List of Mini-Projects
 
 (10) ~~**Calculator**~~
 
-(11) **Unit Converter (temp, currency, volume, mass and more)** 
+(11) ~~**Unit Converter (temp, currency, volume, mass and more)**~~ 
 
 (12) **Alarm Clock** 
 
 (13) **Distance Between Two Cities** 
 
-(14) **Credit Card Validator** 
+(14) ~~**Credit Card Validator**~~
 
-(15) **Tax Calculator** 
+(15) ~~**Tax Calculator**~~
 
 (16) ~~**Factorial Finder**~~
 
