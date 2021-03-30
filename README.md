@@ -1,4 +1,4 @@
-# Complete Python 3 Bootcamp Milestone Projects (WIP 25/95)
+# Complete Python 3 Bootcamp Milestone Projects (WIP 30/97)
 [Udemy course by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/)
 
 List of Mini-Projects
@@ -26,7 +26,7 @@ List of Mini-Projects
 
 (11) ~~**Unit Converter (temp, currency, volume, mass and more)**~~ 
 
-(12) **Alarm Clock** 
+(12) ~~**Alarm Clock**~~ 
 
 (13) **Distance Between Two Cities** 
 
@@ -42,7 +42,7 @@ List of Mini-Projects
 
 (19) **Number Names** 
 
-(20) **Coin Flip Simulation** 
+(20) ~~**Coin Flip Simulation**~~ 
 
 (21) **Limit Calculator** 
 
@@ -74,7 +74,7 @@ List of Mini-Projects
 
 (35) ~~**Pig Latin**~~
 
-(36) **Count Vowels**
+(36) ~~**Count Vowels**~~
 
 (37) ~~**Check if Palindrome**~~ 
 
@@ -193,3 +193,7 @@ List of Mini-Projects
 (94) ~~**Blackjack game**~~
 
 (95) ~~**Rock-paper-scissor game**~~
+
+(96) ~~**Sudoku puzzle solver**~~
+
+(97) ~~**GUI clock**~~
